@@ -87,7 +87,7 @@ Run the following command from the project root directory:
 python -m pytest -v
 ```
 
-The project currently contains 11 automated tests covering log parsing, analysis, and filtering.
+The project currently contains 19 automated tests covering log loading, parsing, analysis, filtering, and report generation.
 
 ## 8. Sample Results
 
