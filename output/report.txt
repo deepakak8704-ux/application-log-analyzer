@@ -1,0 +1,16 @@
+APPLICATION LOG ANALYSIS REPORT
+===================================
+Total entries: 8
+Valid entries: 7
+Malformed entries: 1
+
+LOG LEVEL SUMMARY
+--------------------
+INFO: 2
+WARNING: 2
+ERROR: 3
+
+FREQUENTLY OCCURRING ERRORS
+----------------------------
+Database connection failed - 2 occurrences
+Invalid user credentials - 1 occurrences

@@ -1,0 +1,8 @@
+2026-10-12 09:00:00 INFO Application started
+2026-10-12 09:01:12 WARNING Disk space is low
+2026-10-12 09:02:35 ERROR Database connection failed
+2026-10-12 09:03:10 ERROR Database connection failed
+2026-10-12 09:04:20 INFO User logged in
+2026-10-12 09:05:45 WARNING Memory usage is high
+2026-10-12 09:06:30 ERROR Invalid user credentials
+INVALID LOG ENTRY
